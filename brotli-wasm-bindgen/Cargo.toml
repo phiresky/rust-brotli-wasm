@@ -1,0 +1,15 @@
+[package]
+name = "brotli-wasm-bindgen"
+version = "0.1.0"
+authors = ["phiresky <phireskyde+git@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2.11"
+brotli = "2.5.0"
+wee_alloc = "0.4.1"
+
+[profile.release]
+lto = true

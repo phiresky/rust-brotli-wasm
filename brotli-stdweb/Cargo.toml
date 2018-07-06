@@ -1,0 +1,11 @@
+[package]
+name = "rus"
+version = "0.1.0"
+authors = ["phiresky <phireskyde+git@gmail.com>"]
+
+[dependencies]
+stdweb = "0.4.7"
+brotli = "2.5.0"
+
+[lib]
+crate-type = ["cdylib"]

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "parcel": "^1.9.4",
+    "parcel-plugin-cargo-web": "koute/parcel-plugin-cargo-web#dfa64618ffef618e23e19d9f9330a3f73eeec9e7"
+  }
+}
