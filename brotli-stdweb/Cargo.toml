@@ -6,7 +6,6 @@ authors = ["phiresky <phireskyde+git@gmail.com>"]
 [dependencies]
 stdweb = "0.4.7"
 brotli = "2.5.0"
-wee_alloc = "0.4.1"
 
 [lib]
 crate-type = ["cdylib"]

@@ -9,6 +9,6 @@ var r=require("./bundle-url").getBundleURL;function e(r){Array.isArray(r)||(r=[r
 },{"./bundle-url":10}],12:[function(require,module,exports) {
 module.exports=function(e){return console.log(e),require("./loader-1fb0d8289281c872d3332663f961e786.js")(e)};
 },{"./loader-1fb0d8289281c872d3332663f961e786.js":3}],0:[function(require,module,exports) {
-var b=require(8);b.register("cargo-web-1fb0d8289281c872d3332663f961e786",require(12));b.load([["Cargo.8d642c95.cargo-web-1fb0d8289281c872d3332663f961e786",1]]).then(function(){require(4);});
+var b=require(8);b.register("cargo-web-1fb0d8289281c872d3332663f961e786",require(12));b.load([["Cargo.f78f4e75.cargo-web-1fb0d8289281c872d3332663f961e786",1]]).then(function(){require(4);});
 },{}]},{},[0], null)
 //# sourceMappingURL=brotli-stdweb.2dee095f.map

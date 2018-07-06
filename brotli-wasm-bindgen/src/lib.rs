@@ -1,9 +1,5 @@
 #![feature(proc_macro, wasm_custom_section, wasm_import_module)]
 
-extern crate wee_alloc;
-// Use `wee_alloc` as the global allocator.
-#[global_allocator]
-static ALLOC: wee_alloc::WeeAlloc = wee_alloc::WeeAlloc::INIT;
 
 extern crate wasm_bindgen;
 

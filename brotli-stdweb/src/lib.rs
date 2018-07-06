@@ -3,11 +3,6 @@
 #[macro_use]
 extern crate stdweb;
 
-extern crate wee_alloc;
-// Use `wee_alloc` as the global allocator.
-#[global_allocator]
-static ALLOC: wee_alloc::WeeAlloc = wee_alloc::WeeAlloc::INIT;
-
 extern crate brotli;
 
 use std::io::Write;
