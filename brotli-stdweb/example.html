@@ -1,11 +1,6 @@
 <meta charset="utf-8">
 
-<script src="brotli-wasm.js"></script>
-<script>
-    brotliwasm.load().then(({ compress, decompress }) => {
-        Object.assign(window, { compress, decompress });
-    })
-</script>
+<script src="brotli-stdweb.js"></script>
 
 <script>
     const buffer_size = 4096;

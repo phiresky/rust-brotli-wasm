@@ -11,4 +11,4 @@ module.exports=function(e){return console.log(e),require("./loader-1fb0d8289281c
 },{"./loader-1fb0d8289281c872d3332663f961e786.js":6}],0:[function(require,module,exports) {
 var b=require(8);b.register("cargo-web-1fb0d8289281c872d3332663f961e786",require(12));b.load([["Cargo.c06cbfd3.cargo-web-1fb0d8289281c872d3332663f961e786",1]]).then(function(){require(4);});
 },{}]},{},[0], null)
-//# sourceMappingURL=brotli-stdweb.f37d6289.map
+//# sourceMappingURL=brotli-stdweb.b77e0071.map

@@ -1,2 +1,2 @@
 yarn install
-yarn run parcel build --public-url . brotli-stdweb.html
+yarn run parcel build --public-url . example.html
